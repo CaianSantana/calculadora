@@ -1,2 +1,2 @@
 # calculadora
-esta calculadora executa soma, subtração, multiplicação e divisão de dois números.
+Esta calculadora executa soma, subtração, multiplicação e divisão de dois números.
